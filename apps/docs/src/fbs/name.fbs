@@ -1,0 +1,7 @@
+table Person {
+  id:uint;
+  name: [ubyte];
+  email: [ubyte];
+}
+
+root_type Person;
